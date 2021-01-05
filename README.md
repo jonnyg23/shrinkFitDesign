@@ -17,6 +17,7 @@ The plug must have an equal or greater yield strength than the ring to ensure ri
 
 ## UPDATE--IT WAS A SUCCESS!!:
 * The Capstone Project Goal was successfully fulfilled and presented at the annual UNM ME Design V presentation.
+* The final design was a homogeneous assembly of 304L Stainless Steel, this was one of the least expensive options which resulted in optimal ring yielding. This design can be seen as the 16th choice from the algorithm in the jupyter notebook.
 
 **For information on theory:** Refer to the Proof of Concept Document in the corresponding GitHub Repository.
 
