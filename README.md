@@ -16,7 +16,7 @@ The plug must have an equal or greater yield strength than the ring to ensure ri
 * Use a vectorized implementation of the Lame's Equation with Von Mises Stress Theory of Failure to find the Top 10 designs. These designs will meet the project requirements using a few metallic materials that have very different material properties.
 
 ## UPDATE--IT WAS A SUCCESS!!:
-The Capstone Project Goal was successfully fulfilled and presented at the annual UNM ME Design V presentation.
+* The Capstone Project Goal was successfully fulfilled and presented at the annual UNM ME Design V presentation.
 
 **For information on theory:** Refer to the Proof of Concept Document in the corresponding GitHub Repository.
 
